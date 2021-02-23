@@ -1,0 +1,138 @@
+body{
+    background-color: rgb(212, 250, 255);
+}
+
+header{
+    width: 100%;
+    margin: auto;
+    background-color: white;
+}
+
+
+.titolo{
+    display: inline;
+    
+}
+
+main{
+    padding-left: 7%;
+    padding-right: 7%;
+    margin-top: 60px;
+}
+
+
+
+.bottoni{
+    background-color: white;
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.bottone1{
+    background-color: rgb(51, 173, 248);
+    color: white;
+    border-radius: 15%;
+    border-color: rgb(51, 173, 248);
+
+}
+
+.bottone2{
+    background-color: white;
+    color: lightgrey;
+    border-radius: 15%;
+    border-color: lightgrey;
+}
+
+
+.terzodiv{
+    margin-top: 2px;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+}
+
+.newtask{
+    margin-bottom: 30px;
+}
+
+.today{
+    margin-bottom: 30px;
+}
+
+.vverde{
+    text-align: center;
+    color: green;
+    border: 2px solid green;
+    border-radius: 50%;
+}
+
+.xrossa{
+    text-align: center;
+    color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+
+}
+
+.editorial{
+    padding: 5px;
+    color: white;
+    background-color: rgb(51, 173, 248);
+    border-radius: 20%;
+    border-color: rgb(51, 173, 248);
+
+
+}
+
+.q1goals{
+    padding: 5px;
+    color: white;
+    background-color: violet;
+    border-radius: 20%;
+    border-color: violet;
+
+}
+
+.recruiting{
+    padding: 5px;
+    color: white;
+    background-color: green;
+    border-radius: 20%;
+    border-color: green;
+}
+
+.mobile{
+    padding: 5px;
+    color: white;
+    background-color: orange;
+    border-radius: 20%;
+    border-color: orange;
+}
+
+.website{
+    padding: 5px;
+    color: white;
+    background-color: fuchsia;
+    border-radius: 20%;
+    border-color: fuchsia;
+}
+
+.sales{
+    padding: 5px;
+    color: white;
+    background-color: rgba(35, 172, 1, 0.603);
+    border-radius: 20%;
+    border-color: rgba(35, 172, 1, 0.603);
+}
+
+
+
+
+p{
+    margin-top: 5px;
+    margin-bottom: 1px;
+}
+
